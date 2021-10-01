@@ -1,0 +1,12 @@
+The internet is basically a large network of computers that communicate via servers.  
+It honestly still somewhat confuses me because I didn't really grow up as the "techy kid"
+or however you want to call the more technically inclined children.  Computers are all on networks,
+and they all talk to eachother using servers and routers.  There are different ways different 
+networks and computers communicate to eachother I believe.  The layout of the servers is different
+and the amount of routers used is based off of how many computers there are on the network.
+
+When you click on a link,  your computer figures out what you've clicked,  and then uses the DNS to 
+find the ip address of the website that you clicked via the link.  It's basically a communication pattern
+between the client (your computer) and the server in which the ip address/domain of the website that you clicked 
+on is.  
+    
